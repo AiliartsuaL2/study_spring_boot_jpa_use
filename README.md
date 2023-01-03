@@ -1,6 +1,10 @@
 # study_spring_boot_jpa_use
 인프런 김영한 '실전! 스프링 부트와 JPA활용 1,2'
 
+<p align="center">
+  <img src="https://github.com/AiliartsuaL2/study_spring_boot_jpa_use/files/10334460/775471-324214-10997863.pdf">
+</p>
+
 1. JPA 웹 애플리케이션 개발 필기
 환경설정 
 
@@ -185,6 +189,10 @@ JPA에서 동적 쿼리 사용 방법
 
 
 2. JPA API 설계 및 최적화 필기
+
+<p align="center">
+  <img src="https://github.com/AiliartsuaL2/study_spring_boot_jpa_use/files/10334461/775471-324119-10985397.pdf">
+</p>
 
 회원 등록 API
 - 화면이랑 API간의 공통 에러처리같은부분이 다른게 있기 때문에 패키지를 분리시킴
