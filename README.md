@@ -1,10 +1,6 @@
 # study_spring_boot_jpa_use
 인프런 김영한 '실전! 스프링 부트와 JPA활용 1,2'
 
-<p align="center">
-  <img src="https://github.com/AiliartsuaL2/study_spring_boot_jpa_use/files/10334461/775471-324119-10985397.pdf">
-</p>
-
 1. JPA 웹 애플리케이션 개발 필기
 환경설정 
 
@@ -188,11 +184,6 @@ JPA에서 동적 쿼리 사용 방법
             - 요즘 세션 객체를 잘 안씀
 
 
-
-<p align="center">
-  <img src="https://github.com/AiliartsuaL2/study_spring_boot_jpa_use/files/10334460/775471-324214-10997863.pdf">
-</p>
-	
 	
 2. JPA API 설계 및 최적화 필기
 
